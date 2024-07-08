@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://steygur.github.io/sitemap/sitemap.txt
